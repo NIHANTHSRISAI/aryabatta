@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>HII</pattern>
+	<template>Hi,how are you</template>
+</category>
+
+<category>
+	<pattern>HI</pattern>
+	<template>Hi,how are you</template>
+</category>
+
+<category>
+	<pattern>ABOUT COVID -19</pattern>
+	<that>HI,HOW ARE YOU</that>
+	<template>This video of the year again</template>
+</category>
+
+<category>
+	<pattern>ABOUT COVID-19</pattern>
+	<template>in which country</template>
+</category>
+
+<category>
+	<pattern>ABOUT COVID-19</pattern>
+	<template>in which country</template>
+</category>
+
+<category>
+	<pattern>FINE</pattern>
+	<template>Oh good</template>
+</category>
+
+<category>
+	<pattern>FINE</pattern>
+	<template>Oh good</template>
+</category>
+
+</aiml>
